@@ -1,0 +1,25 @@
+apagar id: subheader
+
+
+Dados do BD do usuário:
+
+Nome; usuario; grupo; e-mail; perfil; telefone; senha
+
+Nome - Nome completo
+usuario - Sistema pode sugerir automaticamente o primeiro nome (mas pode ser editado pelo usuário)
+grupo - Informação de qual cliente ele está vinculado
+e-mail - e-mail que também será o login
+perfil - operador (acessa todos os dados do sistema, mas nao altera), construtor (leitura + cadastro de elementos do sistema) + adm ( construtor + criação/edição de usuarios)
+telefone - Esse numero pode ou nao ser utilizado para futuro envio de dados pelo telegram
+senha - senha utilizada para logar
+
+
+Ativiades a "faser", 
+
+corrigir e ajustar conexões referentes ao banco
+
+ajustar html do cadastro para enviar dados para o banco
+
+desmembrar login da pagina do cadastro
+
+criar botão para editar perfils quando o perfil for administrador
